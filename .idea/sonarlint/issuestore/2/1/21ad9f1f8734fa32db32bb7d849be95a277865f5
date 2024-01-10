@@ -1,0 +1,40 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¼‡8Ê‡øáÂ1
+–
+java:S1319
+"tThe type of "installationRequests" should be an interface such as "List" rather than the implementation "ArrayList".(Ñ…ÑŠùÿÿÿÿ8Ûı¸1
+ˆ
+java:S1319"kThe type of "productList" should be an interface such as "List" rather than the implementation "ArrayList".(¥¼‡8÷ÕøáÂ1
+‡
+java:S1319"eThe type of "quantity" should be an interface such as "Map" rather than the implementation "HashMap".(í©·Ÿşÿÿÿÿ8Ÿ¿šâÂ1
+‚
+java:S1104
+"`Make installationRequests a static final constant or non-public and provide accessors if needed.(Ñ…ÑŠùÿÿÿÿ8Ûı¸1
+t
+java:S1104"WMake productList a static final constant or non-public and provide accessors if needed.(¥¼‡8øÕøáÂ1
+p
+java:S1104"SMake catalog a static final constant or non-public and provide accessors if needed.(ÜªùÍ8ıªâÂ1
+v
+java:S1104"TMake quantity a static final constant or non-public and provide accessors if needed.(í©·Ÿşÿÿÿÿ8 ¿šâÂ1
+\
+java:S1444
+":Make this "public static installationRequests" field final(Ñ…ÑŠùÿÿÿÿ8Ûı¸1
+N
+java:S1444"1Make this "public static productList" field final(¥¼‡8ùÕøáÂ1
+J
+java:S1444"-Make this "public static catalog" field final(ÜªùÍ8ıªâÂ1
+P
+java:S1444".Make this "public static quantity" field final(í©·Ÿşÿÿÿÿ8 ¿šâÂ1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿¾›ç8“Ûı¸1
+?
+java:S2386
+"Make this member "protected".(Ñ…ÑŠùÿÿÿÿ8ûìï†¹1
+:
+java:S2386"Make this member "protected".(¥¼‡8äÖøáÂ1
+?
+java:S2386"Make this member "protected".(í©·Ÿşÿÿÿÿ8Ò¿šâÂ1
+]	java:S125"<This block of commented-out lines of code should be removed.(´®Îıÿÿÿÿ8íäƒáÂ1
+F
+java:S3010"$Remove this assignment of "catalog".(áßç¦øÿÿÿÿ8¸×©âÂ1

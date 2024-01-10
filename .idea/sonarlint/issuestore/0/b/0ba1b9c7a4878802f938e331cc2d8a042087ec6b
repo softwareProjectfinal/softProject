@@ -1,0 +1,20 @@
+
+Ž
+java:S1130
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àÒþüøÿÿÿÿ8šÔ’ˆ¹1
+™
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(àÒþüøÿÿÿÿ8›Ô’ˆ¹1
+X	java:S125"<This block of commented-out lines of code should be removed.(¸¶Ú¹8›Ô’ˆ¹1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8œÔ’ˆ¹1
+]	java:S125"<This block of commented-out lines of code should be removed.(ìÐê‘üÿÿÿÿ8œÔ’ˆ¹1
+G	java:S106"+Replace this use of System.out by a logger.(³ñ½È8œÔ’ˆ¹1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ…Œ³8œÔ’ˆ¹1
+L	java:S106"+Replace this use of System.out by a logger.(‘µÀ¡ûÿÿÿÿ8Ô’ˆ¹1
+L	java:S106"+Replace this use of System.out by a logger.(Î¹ Âþÿÿÿÿ8Ô’ˆ¹1
+G	java:S106"+Replace this use of System.out by a logger.(‹Ììã8Ô’ˆ¹1
+G	java:S106"+Replace this use of System.out by a logger.(š”¹Ï8Ô’ˆ¹1
+G	java:S106"+Replace this use of System.out by a logger.(•éõ«8Ô’ˆ¹1
+]	java:S125 "<This block of commented-out lines of code should be removed.(ô Óýÿÿÿÿÿ8ŸÔ’ˆ¹1
+L	java:S1061"+Replace this use of System.out by a logger.(ƒœ½Ýùÿÿÿÿ8 Ô’ˆ¹1
+L	java:S1064"+Replace this use of System.out by a logger.(ÊôÍíþÿÿÿÿ8 Ô’ˆ¹1

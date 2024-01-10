@@ -1,0 +1,90 @@
+
+|
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(´¯×ìûÿÿÿÿ8ïµ·âÂ1
+p
+java:S1192i"NDefine a constant instead of duplicating this literal "Invalid Input" 3 times.(şñ‚Ÿıÿÿÿÿ8ïµ·âÂ1
+r	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÀ›‚ûÿÿÿÿ8ğµ·âÂ1
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²½ò×ÿÿÿÿÿ8ğµ·âÂ1
+m	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ûï8ğµ·âÂ1
+m	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¿œ8ğµ·âÂ1
+m	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ç©İ8ğµ·âÂ1
+m	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åœ²8ğµ·âÂ1
+r	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äà²âùÿÿÿÿ8ğµ·âÂ1
+r	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÑ²øÿÿÿÿ8ğµ·âÂ1
+m	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úîô›8ğµ·âÂ1
+r	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´”ê¾ÿÿÿÿÿ8ğµ·âÂ1
+m	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¹ëØ8ğµ·âÂ1
+m	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÏÉÖ8ğµ·âÂ1
+r	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Øèÿÿÿÿÿ8ğµ·âÂ1
+r	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€æ ñùÿÿÿÿ8ğµ·âÂ1
+n	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬À•ì8ğµ·âÂ1
+n	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨óğ8ğµ·âÂ1
+s	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ªƒüşÿÿÿÿ8ğµ·âÂ1
+s	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¯×ìûÿÿÿÿ8ğµ·âÂ1
+s	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†“–Áıÿÿÿÿ8ğµ·âÂ1
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÿêÿÿÿÿÿ8ğµ·âÂ1
+s	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ç™†ûÿÿÿÿ8ğµ·âÂ1
+s	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¼ššùÿÿÿÿ8ğµ·âÂ1
+s	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õú©¯øÿÿÿÿ8ğµ·âÂ1
+n	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãã¢é8ğµ·âÂ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó•š¾8òµ·âÂ1
+f
+java:S3973ˆ"HUse indentation to denote the code conditionally executed by this "for".(’Ò÷¬8òµ·âÂ1
+l	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áï»‚8ùµ·âÂ1
+ƒ
+java:S1221)"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(Ü±æèøÿÿÿÿ8ÿµ·âÂ1
+;
+java:S2178*"Correct this "&" to "&&".(’¡Âúúÿÿÿÿ8ÿµ·âÂ1
+o	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óß’ûÿÿÿÿ8ÿµ·âÂ1
+t
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(óß’ûÿÿÿÿ8€¶·âÂ1
+L	java:S1068"+Replace this use of System.out by a logger.(Ì×éÁşÿÿÿÿ8„¶·âÂ1
+L	java:S1069"+Replace this use of System.out by a logger.(Ç¢¶•üÿÿÿÿ8„¶·âÂ1
+G	java:S106:"+Replace this use of System.out by a logger.(èÄµª8…¶·âÂ1
+F	java:S106;"+Replace this use of System.out by a logger.(õÁå38…¶·âÂ1
+L	java:S106<"+Replace this use of System.out by a logger.(¨®Ğÿÿÿÿÿ8…¶·âÂ1
+F	java:S106="+Replace this use of System.out by a logger.(õ‘C8…¶·âÂ1
+L	java:S106>"+Replace this use of System.out by a logger.(ğ§ şÿÿÿÿ8…¶·âÂ1
+n	java:S128¯"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8†¶·âÂ1
+>	java:S131B""Add a default case to this switch.(ßåÇø8†¶·âÂ1
+L	java:S106D"+Replace this use of System.out by a logger.(Ëªºôşÿÿÿÿ8†¶·âÂ1
+L	java:S106F"+Replace this use of System.out by a logger.(¬„¨¥ıÿÿÿÿ8‡¶·âÂ1
+L	java:S106G"+Replace this use of System.out by a logger.(à…Éêÿÿÿÿÿ8‡¶·âÂ1
+L	java:S106H"+Replace this use of System.out by a logger.(Ä›¯Çúÿÿÿÿ8‡¶·âÂ1
+G	java:S106N"+Replace this use of System.out by a logger.(»Ş®8‰¶·âÂ1
+G	java:S106P"+Replace this use of System.out by a logger.( åîÍ8Š¶·âÂ1
+G	java:S106R"+Replace this use of System.out by a logger.(‘¶À‡8Š¶·âÂ1
+L	java:S106T"+Replace this use of System.out by a logger.(…ŞËÙıÿÿÿÿ8Š¶·âÂ1
+L	java:S106V"+Replace this use of System.out by a logger.( âùÙüÿÿÿÿ8‹¶·âÂ1
+L	java:S106]"+Replace this use of System.out by a logger.(¯¡âûÿÿÿÿ8Œ¶·âÂ1
+F	java:S106_"+Replace this use of System.out by a logger.(¤“†\8Œ¶·âÂ1
+G	java:S106d"+Replace this use of System.out by a logger.(ÌÄÔ–8¶·âÂ1
+L	java:S106i"+Replace this use of System.out by a logger.(şñ‚Ÿıÿÿÿÿ8¶·âÂ1
+L	java:S106n"+Replace this use of System.out by a logger.(ÄÃ¢µùÿÿÿÿ8¶·âÂ1
+G	java:S106o"+Replace this use of System.out by a logger.(°ÑãÅ8¶·âÂ1
+L	java:S106p"+Replace this use of System.out by a logger.(®•¨Àÿÿÿÿÿ8¶·âÂ1
+L	java:S106q"+Replace this use of System.out by a logger.(€»ƒĞıÿÿÿÿ8¶·âÂ1
+L	java:S106r"+Replace this use of System.out by a logger.(„ÍÿÒşÿÿÿÿ8¶·âÂ1
+L	java:S106x"+Replace this use of System.out by a logger.( ‘±³üÿÿÿÿ8¶·âÂ1
+F	java:S106{"+Replace this use of System.out by a logger.(ÓÍÚ8¶·âÂ1
+L	java:S106}"+Replace this use of System.out by a logger.( ‘±³üÿÿÿÿ8¶·âÂ1
+H	java:S106‚"+Replace this use of System.out by a logger.(ÌÄÔ–8‘¶·âÂ1
+M	java:S106†"+Replace this use of System.out by a logger.(À½¢ûÿÿÿÿ8’¶·âÂ1
+H	java:S106‹"+Replace this use of System.out by a logger.(¦‚“8“¶·âÂ1
+M	java:S106"+Replace this use of System.out by a logger.(şñ‚Ÿıÿÿÿÿ8“¶·âÂ1
+H	java:S106’"+Replace this use of System.out by a logger.(÷„Şî8“¶·âÂ1
+M	java:S106“"+Replace this use of System.out by a logger.(ûü«ûøÿÿÿÿ8“¶·âÂ1
+H	java:S106”"+Replace this use of System.out by a logger.(µ®ğ˜8“¶·âÂ1
+M	java:S106•"+Replace this use of System.out by a logger.(ÙõÔ«üÿÿÿÿ8”¶·âÂ1
+F	java:S108š")Either remove or fill this block of code.(È“ª8–¶·âÂ1
+H	java:S106"+Replace this use of System.out by a logger.(äşä8—¶·âÂ1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(úÅ¾éüÿÿÿÿ8—¶·âÂ1
+H	java:S106¡"+Replace this use of System.out by a logger.(°—ïˆ8˜¶·âÂ1
+M	java:S106¤"+Replace this use of System.out by a logger.(÷ìßˆşÿÿÿÿ8˜¶·âÂ1
+H	java:S106¦"+Replace this use of System.out by a logger.(£Š÷8™¶·âÂ1
+H	java:S106ª"+Replace this use of System.out by a logger.(¦‚“8š¶·âÂ1
+M	java:S106¬"+Replace this use of System.out by a logger.(şñ‚Ÿıÿÿÿÿ8š¶·âÂ1
+M	java:S106°"+Replace this use of System.out by a logger.(œ´Ûšıÿÿÿÿ8š¶·âÂ1
+M	java:S106³"+Replace this use of System.out by a logger.(ÀÆÅïÿÿÿÿÿ8š¶·âÂ1
+é
+java:S65411"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 120 to 64, Complexity from 21 to 14, Nesting Level from 5 to 2, Number of Variables from 31 to 6.(óß’ûÿÿÿÿ8›¶·âÂ1

@@ -1,0 +1,21 @@
+
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Èçşûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó•š¾
+=
+java:S2189*""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+e	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áï»‚
+|
+java:S1221"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(Ü±æèøÿÿÿÿ
+4
+java:S2178 "Correct this "&" to "&&".(’¡Âúúÿÿÿÿ
+c	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‹ñ¯
+Y
+java:S1854(">Remove this useless assignment to local variable "COperation".(¶Èçşûÿÿÿÿ
+J
+java:S1481("/Remove this unused "COperation" local variable.(¶Èçşûÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(òå’şÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(Ùäˆñşÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(¸¨×³ÿÿÿÿÿ
+?	java:S106."+Replace this use of System.out by a logger.(õ‘C
+E	java:S106/"+Replace this use of System.out by a logger.(ğ§ şÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(¦Êğ¶üÿÿÿÿ
