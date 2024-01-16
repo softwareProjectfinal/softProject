@@ -39,7 +39,7 @@ public class Admin {
 	public void setPassword(int password) {
 		this.password = password;
 	}
-	public int equal(String username, int pass) {
+	public int isequal(String username, int pass) {
 		if(this.username.equalsIgnoreCase(username) && this.password == pass) {
 			return 1;
 		}else {
@@ -159,7 +159,8 @@ public class Admin {
 	}
 	public void AdminOperation() {
 		Scanner AOperation = new Scanner(System.in);
-		while(true) {
+		int OP = AOperation.nextInt();
+		while(OP != 5) {
 			
 			String menu = "\n+------- Welcome to Admin Wizard -------+\n" +
 		               "1) Manage Products\n" +
@@ -169,7 +170,7 @@ public class Admin {
 		               "5) Exit\n" +
 		               "Enter The Operation Number: ";
 		logger.info(menu);
-	    	int OP = AOperation.nextInt();
+	    	
         	switch(OP) {
     		case 1:
     			ManageProducts();
