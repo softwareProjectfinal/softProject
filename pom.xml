@@ -17,29 +17,29 @@
 	    
     </properties>
 
-   <build>
+<!--   <build>
 		<plugins>
-			<!-- The Surefire Plugin is needed to run JUnit 5 tests with Maven -->
+			&lt;!&ndash; The Surefire Plugin is needed to run JUnit 5 tests with Maven &ndash;&gt;
 			<plugin>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-surefire-plugin</artifactId>
-    <!-- JUnit 5 requires Surefire version 2.22.0 or higher -->
-    <version>2.22.0</version>
-</plugin>
-<plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                &lt;!&ndash; JUnit 5 requires Surefire version 2.22.0 or higher &ndash;&gt;
+                <version>2.22.0</version>
+            </plugin>
+            <plugin>
                     <groupId>org.jacoco</groupId>
                     <artifactId>jacoco-maven-plugin</artifactId>
                     
                     <executions>
-                        <!-- Prepares the property pointing to the JaCoCo runtime agent
-                        which is passed as VM argument when Maven the Surefire plugin is executed. -->
+                        &lt;!&ndash; Prepares the property pointing to the JaCoCo runtime agent
+                        which is passed as VM argument when Maven the Surefire plugin is executed. &ndash;&gt;
                         <execution>
                             <goals>
                                 <goal>prepare-agent</goal>
                             </goals>
                         </execution>
-                        <!-- Ensures that the code coverage report is created after
-                        all tests have been run. -->
+                        &lt;!&ndash; Ensures that the code coverage report is created after
+                        all tests have been run. &ndash;&gt;
                         <execution>
                             <id>generate-report</id>
 			    <phase>verify</phase>
@@ -52,7 +52,7 @@
 			
 			
 		</plugins>
-	</build>
+	</build>-->
          
     <dependencies>
 	<dependency>
@@ -82,12 +82,12 @@
             <scope>test</scope>
         </dependency>
 
-        <!--<dependency>
+        <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
             <version>RELEASE</version>
             <scope>test</scope>
-        </dependency>-->
+        </dependency>
         <dependency>
             <groupId>org.mockito</groupId>
             <artifactId>mockito-core</artifactId>
