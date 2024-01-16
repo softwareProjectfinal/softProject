@@ -1,8 +1,13 @@
 package parts;
 
-import org.junit.Test;
+//import org.junit.jupiter.*;
+import org.junit.*;
+//import org.junit.jupiter.api.*;
 import parts.Storage;
-import static org.junit.Assert.*;
+
+import static org.junit.Assert.assertEquals;
+//import static org.junit.jupiter.api.Assertions.assertEquals;
+//import static org.junit.jupiter.*;
 
 public class ProductTest {
 
